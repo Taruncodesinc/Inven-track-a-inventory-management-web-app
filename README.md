@@ -3,13 +3,13 @@
 A sleek, modern inventory management solution designed to help businesses seamlessly manage stock, track orders, and coordinate with suppliers.
 
 > 🚀 Hackathon Project  
-> 📁 Current Status: UI/UX Design Prototype (Images in `/UI design screenshots` folder)
+> 📁 Current Status: UI/UX Design Prototype (Images in `/ui-desgin-screenshot` folder)
 
 ---
 
 ## 📸 Design Previews
 
-Explore the UI design screens in the [`/UI design screenshots`](UI design screenshots/) folder.
+Explore the UI design screens in the [`/ui-desgin-screenshot`](/ui-desgin-screenshot/) folder.
 
 Here are a few highlights:
 
