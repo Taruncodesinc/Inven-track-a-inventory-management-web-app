@@ -44,18 +44,23 @@ This app is being designed with usability and scalability in mind. It will event
 ## 📂 Files Included
 
 - `/ui-design-screenshots/` — UI Screens (PNG format)
-- `PitchDeck.pdf` — Hackathon presentation
+- `Cyf1194_Web_Wizards_Phase1.pdf` — Hackathon presentation
 - `README.md` — Project Overview
 
 ---
 
+## 🛠️ Built With  
+
+[![Penpot](https://img.shields.io/badge/Design-Penpot-7C3AED?logo=penpot&style=flat)](https://penpot.app/)
+
 ## 🛠️ Planned Tech Stack
 
-- **Frontend**: React.js + Tailwind CSS  
-- **Backend**: Node.js / Express.js  
-- **Database**: MongoDB
-- **Auth**: JWT   
-- **Hosting**:Netlify  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![JWT](https://img.shields.io/badge/-JWT-black?logo=json-web-tokens&logoColor=white&style=flat)  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)  
 
 ---
 
