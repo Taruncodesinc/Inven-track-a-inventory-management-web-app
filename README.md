@@ -17,7 +17,7 @@ Here are a few highlights:
 |------------|-----------|-------------|
 | ![Login](ui-design-screenshot/login-page.png) | ![Dashboard](ui-design-screenshot/dashboard-page.png) | ![Add Product](ui-design-screenshot/add-product-page.png) |
 
-> 🔍 Note: All screens are in high resolution inside the `designs/` directory.
+> 🔍 Note: All screens are in high resolution inside the `ui-design-screenshot/` directory.
 
 ---
 
@@ -43,7 +43,7 @@ This app is being designed with usability and scalability in mind. It will event
 
 ## 📂 Files Included
 
-- `/UI design screenshots/` — UI Screens (PNG format)
+- `/ui-design-screenshots/` — UI Screens (PNG format)
 - `PitchDeck.pdf` — Hackathon presentation
 - `README.md` — Project Overview
 
