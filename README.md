@@ -9,7 +9,7 @@ A sleek, modern inventory management solution designed to help businesses seamle
 
 ## 📸 Design Previews
 
-Explore the UI design screens in the [`/UI design screenshots`](/UI design screenshots) folder.
+Explore the UI design screens in the [`/UI design screenshots`](./UI design screenshots) folder.
 
 Here are a few highlights:
 
