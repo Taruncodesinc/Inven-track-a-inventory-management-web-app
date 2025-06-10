@@ -71,7 +71,8 @@ This app is being designed with usability and scalability in mind. It will event
 ## 🧑‍💻 Team & Contact
 
 **Team**: [Web-WIzards (Tarun Rawat and Rishabh Awasthi]  
-**Contact**: [![Email Tarun](https://img.shields.io/badge/Email-Tarun-%23D14836?style=flat&logo=gmail)](mailto:rawatt046@gmail.com)  [![Email Rishabh](https://img.shields.io/badge/Email-Rishabh-%23D14836?style=flat&logo=gmail)](mailto:rishaabhawsthi786@gmail.com) 
+**Contact**: [![Email Tarun](https://img.shields.io/badge/Email-Tarun-%23D14836?style=flat&logo=gmail)](mailto:rawatt046@gmail.com)  
+[![Email Rishabh](https://img.shields.io/badge/Email-Rishabh-%23D14836?style=flat&logo=gmail)](mailto:rishaabhawsthi786@gmail.com) 
 **Hackathon**: [Cyfuture AI hackathon]
 
 ---
