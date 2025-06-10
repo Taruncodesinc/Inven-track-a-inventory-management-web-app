@@ -13,7 +13,7 @@ A sleek, modern inventory management solution designed to help businesses seamle
 |-------|-----------|---------------------|
 | ![Login](ui-design-screenshot/login-page.png) | ![Dashboard](ui-design-screenshot/dashboard-page.png) | ![Add Product](ui-design-screenshot/add-product-page.png) |
 
-📌 [View all screenshots →](/ui-design-screenshot)
+📌 [View all screenshots →][here](/ui-design-screenshot)
 
 ---
 
