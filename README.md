@@ -7,17 +7,13 @@ A sleek, modern inventory management solution designed to help businesses seamle
 
 ---
 
-## 📸 Design Previews
 
-Explore the UI design screens in the [`/ui-design-screenshot`](/ui-design-screenshot/) folder.
-
-Here are a few highlights:
-
-| Login Page | Dashboard | Add Product |
-|------------|-----------|-------------|
+## 🖥️ UI Showcase
+| Login | Dashboard | Product Management |
+|-------|-----------|---------------------|
 | ![Login](ui-design-screenshot/login-page.png) | ![Dashboard](ui-design-screenshot/dashboard-page.png) | ![Add Product](ui-design-screenshot/add-product-page.png) |
 
-> 🔍 Note: All screens are in high resolution inside the `ui-design-screenshot/` directory.
+📌 [View all screenshots →](/ui-design-screenshot)
 
 ---
 
@@ -75,8 +71,7 @@ This app is being designed with usability and scalability in mind. It will event
 ## 🧑‍💻 Team & Contact
 
 **Team**: [Web-WIzards (Tarun Rawat and Rishabh Awasthi]  
-**Contact**: [![Email Tarun](https://img.shields.io/badge/Email-Tarun-%23D14836?style=flat&logo=gmail)](mailto:rawatt046@gmail.com)  
-[![Email Rishabh](https://img.shields.io/badge/Email-Rishabh-%23D14836?style=flat&logo=gmail)](mailto:rishaabhawsthi786@gmail.com) 
+**Contact**: [![Email Tarun](https://img.shields.io/badge/Email-Tarun-%23D14836?style=flat&logo=gmail)](mailto:rawatt046@gmail.com)  [![Email Rishabh](https://img.shields.io/badge/Email-Rishabh-%23D14836?style=flat&logo=gmail)](mailto:rishaabhawsthi786@gmail.com) 
 **Hackathon**: [Cyfuture AI hackathon]
 
 ---
